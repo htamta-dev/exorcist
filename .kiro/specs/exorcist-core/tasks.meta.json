@@ -1,0 +1,611 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "0.1 Check employment contract and employer connections against the compliance checklist": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852593
+      },
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951928778
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951981940
+      },
+      {
+        "executionId": "834c2036-da48-4e86-88b7-619f8f99aec0",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793952038281
+      }
+    ],
+    "0.2 Register on Devpost": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852666
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982022
+      },
+      {
+        "executionId": "834c2036-da48-4e86-88b7-619f8f99aec0",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793952043143
+      }
+    ],
+    "0.3 Request Kiro credits now (form closes December 1, 12:00 pm PT, and review can take 48 business hours)": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852694
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982068
+      },
+      {
+        "executionId": "834c2036-da48-4e86-88b7-619f8f99aec0",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793952047766
+      }
+    ],
+    "0.4 Redeem credits by December 4, and confirm needed Kiro features and models work in your region": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852717
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982094
+      },
+      {
+        "executionId": "834c2036-da48-4e86-88b7-619f8f99aec0",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793952052456
+      }
+    ],
+    "0.5 Create a public GitHub repo, confirm the license appears in About, and add `.gitignore` and `.env.example`": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852740
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982122
+      },
+      {
+        "executionId": "834c2036-da48-4e86-88b7-619f8f99aec0",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793952057754
+      }
+    ],
+    "0.6 Set up `uv`, `pytest`, Hypothesis, and the package layout": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852769
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982153
+      }
+    ],
+    "0.7 Add a CI workflow (pushing it needs the GitHub `workflow` permission or the website editor)": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852806
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982179
+      }
+    ],
+    "0.8 Add Kiro steering files for product, tech, and structure": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852834
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982210
+      }
+    ],
+    "0.9 Add hooks to run related tests and validate eval YAML": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852859
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982244
+      }
+    ],
+    "1.1 Choose the model provider and hosting": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852888
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982273
+      }
+    ],
+    "1.2 Define the model provider interface and a scripted fake model": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852917
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982304
+      }
+    ],
+    "1.3 Build the agent loop with a tool-call limit and safe failures": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852949
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982337
+      }
+    ],
+    "1.4 Load tools from an MCP server": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951852975
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982377
+      }
+    ],
+    "1.5 Build redaction, with unit and property-based tests": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853003
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982406
+      }
+    ],
+    "1.6 Save redacted traces in both modes": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853032
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982435
+      }
+    ],
+    "1.7 Add schema, allowlist, scope, and confirmation guards, with property-based tests": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853060
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982468
+      }
+    ],
+    "1.8 Mark tool output as untrusted, and add the mode switch": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853091
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982494
+      }
+    ],
+    "1.9 **Checkpoint:** one agent runs a tool call in both modes using the fake model": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853116
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982520
+      }
+    ],
+    "2.1 Build Haunted Help Desk tools, mock data, and config": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853142
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982546
+      }
+    ],
+    "2.2 Create the poisoned knowledge-base article, and confirm the attack works on the unprotected agent": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853169
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982571
+      }
+    ],
+    "2.3 Build eval case loading, checks, and repeat runs": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853215
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982599
+      }
+    ],
+    "2.4 Build scoring, the failed-case report, and redaction metrics": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853241
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982638
+      }
+    ],
+    "2.5 Build the red-team custom agent or report MCP server, and review what it produces": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853266
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982662
+      }
+    ],
+    "2.6 Write development and held-out cases": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853292
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982687
+      }
+    ],
+    "2.7 Run the first baseline in both modes, then set thresholds": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853316
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982711
+      }
+    ],
+    "2.8 Build `exorcist gate`, including the false-block check": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853341
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982736
+      }
+    ],
+    "2.9 Build `exorcist capture`": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853367
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982764
+      }
+    ],
+    "2.10 Compare at least three existing tools, then update the positioning": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853394
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982797
+      }
+    ],
+    "2.11 **Checkpoint:** an attack is found, captured, and fixed, and the gate goes from fail to pass": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853424
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982823
+      }
+    ],
+    "3.1 Build `exorcist new`, and test it from a clean folder": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853449
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982851
+      }
+    ],
+    "3.2 Build Midnight On-Call from the kit in its own folder, and record any core changes needed": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853474
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982877
+      }
+    ],
+    "3.3 Build the guided page, web chat, and side-by-side view with the haunted theme": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853501
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982911
+      }
+    ],
+    "3.4 Add the eval report page": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853526
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982936
+      }
+    ],
+    "3.5 Record real runs, and add labeled scripted mode": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853552
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982961
+      }
+    ],
+    "3.6 Add public limits, the spending cap, fallback, and separate judge access": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853581
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951982986
+      }
+    ],
+    "3.7 Deploy both apps, set billing alerts, and test from a private browser window": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853607
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983011
+      }
+    ],
+    "3.8 Have one person try it without help, then fix what confuses them": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853633
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983036
+      }
+    ],
+    "3.9 **Checkpoint:** the full demo works on deployed links, including the judge flow": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853659
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983061
+      }
+    ],
+    "4.1 Run held-out evals, and put the real results in the README": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853684
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983086
+      }
+    ],
+    "4.2 Document CI gate usage, known limitations, and tool comparison": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853711
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983111
+      }
+    ],
+    "4.3 Finish the Kiro write-up with real examples and disclosures": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853740
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983160
+      }
+    ],
+    "4.4 Record the video, and publish it on YouTube": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853768
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983193
+      }
+    ],
+    "4.5 Scan the repo and its history for secrets": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853816
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983227
+      }
+    ],
+    "4.6 Complete the compliance checklist in `requirements.md`": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853844
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983256
+      }
+    ],
+    "4.7 Fill in the Devpost form as a draft, including judge credentials": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853873
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983286
+      }
+    ],
+    "4.8 **Submit by December 3**, leaving time to fix problems": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853899
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983320
+      }
+    ],
+    "5.1 Keep the app free and working until January 29, 2027, 1:00 pm PT, and test it in early January": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853925
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983347
+      }
+    ],
+    "5.2 Watch for winner messages around February 3, 2027, as required forms are due within 10 business days": [
+      {
+        "executionId": "59e32c6a-eaf4-4609-a985-7870090e7fae",
+        "chatSessionId": "sess_467848cc-5af6-4303-a399-a93b05241387",
+        "timestamp": 1793951853950
+      },
+      {
+        "executionId": "607dd601-c0bf-4bdf-be33-21789d5bcda7",
+        "chatSessionId": "sess_31c50d71-578b-4dba-941a-a58e7cf457d0",
+        "timestamp": 1793951983377
+      }
+    ]
+  }
+}
